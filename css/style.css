@@ -5,3 +5,10 @@ body{
 tr:hover {
     background-color: rgb(255, 81, 0);
 }
+
+/*estilo por ID*/
+#nombre{
+    border: 1px double blue;
+    border-radius: 3px;
+    background-color: rgb(34, 170, 34);
+}
