@@ -12,3 +12,28 @@ tr:hover {
     border-radius: 3px;
     background-color: rgb(34, 170, 34);
 }
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  /* Espacio de relleno en celdas y cabeceras */
+  
+  th {
+    padding: 10px;
+  }
+  /* Modificación de estilos en cabeceras */
+  th {
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  /* Modificación de estilos en celdas */
+  td {
+    text-align: center;
+    border-bottom: 2px solid #111;
+    color: #333;
+    font-size: 18px;
+  }
+
+
